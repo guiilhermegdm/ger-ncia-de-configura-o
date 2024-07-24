@@ -1,1 +1,1 @@
-# ger-ncia-de-configura-o
+# Repositório para Gerência de Configuração
